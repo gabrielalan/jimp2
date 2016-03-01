@@ -15,9 +15,6 @@ var BigNumber = require('bignumber.js');
 var URLRegEx = require("url-regex");
 var Request = require('request').defaults({ encoding: null });
 
-// polyfill Promise for Node < 0.12
-var Promise = Promise || require('es6-promise').Promise;
-
 // logging methods
 
 var chars = 0;

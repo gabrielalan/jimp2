@@ -1,38 +1,4 @@
 {
-  "_args": [
-    [
-      "jimp",
-      "c:\\Projects\\leaf"
-    ]
-  ],
-  "_from": "jimp@*",
-  "_id": "jimp@0.2.21",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/jimp",
-  "_nodeVersion": "0.12.7",
-  "_npmUser": {
-    "email": "oliver@nth-iteration.ie",
-    "name": "oliver.moran"
-  },
-  "_npmVersion": "2.11.3",
-  "_phantomChildren": {},
-  "_requested": {
-    "name": "jimp",
-    "raw": "jimp",
-    "rawSpec": "",
-    "scope": null,
-    "spec": "*",
-    "type": "range"
-  },
-  "_requiredBy": [
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/jimp/-/jimp-0.2.21.tgz",
-  "_shasum": "5122960cd5d5bc4196a85345f66a33b7daee4eb3",
-  "_shrinkwrap": null,
-  "_spec": "jimp",
-  "_where": "c:\\Projects\\leaf",
   "author": {
     "email": "oliver.moran@gmail.com",
     "name": "Oliver Moran"
@@ -43,7 +9,6 @@
   "dependencies": {
     "bignumber.js": "^2.1.0",
     "bmp-js": "0.0.1",
-    "es6-promise": "^3.0.2",
     "exif-parser": "^0.1.9",
     "file-type": "^3.1.0",
     "jpeg-js": "^0.1.1",
@@ -90,7 +55,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oliver-moran/jimp.git"
+    "url": "git+https://github.com/gabrielalan/jimp2.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
