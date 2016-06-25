@@ -4,7 +4,7 @@
     "name": "Oliver Moran"
   },
   "bugs": {
-    "url": "https://github.com/oliver-moran/jimp/issues"
+    "url": "https://github.com/gabrielalan/jimp2"
   },
   "dependencies": {
     "bignumber.js": "^2.1.0",
@@ -24,12 +24,8 @@
   "description": "An image processing library written entirely in JavaScript (i.e. zero external or native dependencies).",
   "devDependencies": {},
   "directories": {},
-  "dist": {
-    "shasum": "5122960cd5d5bc4196a85345f66a33b7daee4eb3",
-    "tarball": "http://registry.npmjs.org/jimp/-/jimp-0.2.21.tgz"
-  },
   "gitHead": "2d3da35d0f4791b1c5a3fb12d0dc58a7e1ce456e",
-  "homepage": "https://github.com/oliver-moran/jimp#readme",
+  "homepage": "https://github.com/gabrielalan/jimp2#readme",
   "keywords": [
     "bmp",
     "crop",
@@ -46,8 +42,8 @@
   "main": "index.js",
   "maintainers": [
     {
-      "name": "oliver.moran",
-      "email": "oliver@nth-iteration.ie"
+      "name": "gabrielalan",
+      "email": "gaba.alan@gmail.com"
     }
   ],
   "name": "jimp",
@@ -61,5 +57,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "tonicExampleFilename": "example.js",
-  "version": "0.2.21"
+  "version": "0.2.22"
 }

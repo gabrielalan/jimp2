@@ -1,3 +1,9 @@
+# Author
+
+This library was made by Oliver Moran, and the real repo is this: https://github.com/oliver-moran/jimp/issues.
+
+This "copy" of the library was made without es6-promise favoring native Promise.
+
 # Jimp #
 
 The "JavaScript Image Manipulation Program" :-)
