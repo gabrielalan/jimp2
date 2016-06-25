@@ -46,7 +46,7 @@
       "email": "gaba.alan@gmail.com"
     }
   ],
-  "name": "jimp",
+  "name": "jimp2",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
@@ -57,5 +57,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "tonicExampleFilename": "example.js",
-  "version": "0.2.22"
+  "version": "2.0.0"
 }
